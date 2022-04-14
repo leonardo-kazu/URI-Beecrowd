@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "bounded",
+    "editor.mouseWheelZoom": true,
+    "workbench.editor.languageDetection": true
+}
