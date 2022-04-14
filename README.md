@@ -1,3 +1,3 @@
-# URI (BEECROWD)
+# URI (Beecrowd)
 
-## Resoluções de problemas do URI/BEECROWD
+## Resoluções de problemas do URI/Beecrowd
