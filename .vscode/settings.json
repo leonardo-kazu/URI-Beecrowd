@@ -1,5 +1,7 @@
 {
-    "editor.wordWrap": "bounded",
-    "editor.mouseWheelZoom": true,
-    "workbench.editor.languageDetection": true
+  "editor.wordWrap": "bounded",
+  "editor.mouseWheelZoom": true,
+  "workbench.editor.languageDetection": true,
+  "python.analysis.typeCheckingMode": "off",
+  "editor.tabSize": 4
 }

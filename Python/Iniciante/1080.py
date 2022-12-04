@@ -9,4 +9,4 @@ for i in range(100):
         maior = aux
 
 print(maior)
-print(pos)    
+print(pos)
