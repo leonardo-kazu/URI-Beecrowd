@@ -7,6 +7,7 @@ def main():
         nota = float(input())
 
         if nota > 10 or nota < 0:
+            print(f'nota invalida')
             continue
         media += nota
         cont += 1
